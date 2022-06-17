@@ -47,7 +47,11 @@ All Files and Folder will Look Like This Hirecry Right?
 ![Hierarcy](images/Hierarcy.png)
 
 ## Environment Variables
+
+
 ![App Screenshot](https://img.shields.io/badge/Windows-Powershell-blue)
+
+
 Open Windows Powershell and then paste below commands one by one, like the picture below.
 
 ```bash
@@ -58,15 +62,13 @@ setx PATH "C:\Android\Sdk\cmdline-tools\latest\bin;C:\Android\Sdk\platforms;C:\A
 setx PATH "C:\Android\Sdk\cmdline-tools\latest\bin;C:\Android\Sdk\platforms;C:\Android\Sdk\platform-tools;C:\Android\Sdk\tools;C:\Android\flutter\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-11.0.14;"
 ```
 
+Powershell Screenshot
 
 ![Powershell](images/Powershell.png)
 
 Everything is set. You may restart your PC and see the magic 👏.
 ## Happy Coding 😍
 [![Facebook](https://img.shields.io/badge/facebook-0D66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/arrahman.xd)
-
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arrahmanbd.blogspot.com/)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/arrahmanbd)
 
